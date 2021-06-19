@@ -1,0 +1,39 @@
+body{
+    background-image: url("./image/Desktop\ -\ 1.jpg");
+    font-family: 'Redressed', cursive;
+}
+*{
+    border: 1px dashed lime;
+}
+.food{
+    display: flex;
+    justify-content: space-between;
+}
+.three{
+    display: flex;
+    margin-right: 80px;
+
+}
+.seet{
+    display: flex;
+    margin-left: 100px;
+}
+.three p{
+    width: 200px;
+    text-align: center;
+    font-size: large;
+}
+#inside{
+    margin-left: 30px;
+    color: #E77F06;
+}
+.one{
+    color: #E77F06;
+}
+#more{
+    color: #E77F06;
+}
+.passage{
+    width: 600px;
+    font-size: x-large;
+}
