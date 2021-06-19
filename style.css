@@ -1,5 +1,6 @@
 body{
-    background-image: url("./image/Desktop\ -\ 1.jpg");
+    background-image: url("./image/Desktop\ -\ 1\ \(1\).jpg");
+    background-size: cover;
     font-family: 'Redressed', cursive;
 }
 *{
@@ -11,29 +12,44 @@ body{
 }
 .three{
     display: flex;
-    margin-right: 80px;
+   
 
 }
 .seet{
     display: flex;
-    margin-left: 100px;
+    margin-left: 80px;
 }
 .three p{
     width: 200px;
     text-align: center;
     font-size: large;
+    font-size: x-large;
 }
 #inside{
-    margin-left: 30px;
-    color: #E77F06;
+    margin-top: 30px;
+    margin-left: 50px;
+
 }
 .one{
     color: #E77F06;
 }
 #more{
     color: #E77F06;
+    padding: 40px;
+    margin-left: 40px;
 }
 .passage{
-    width: 600px;
-    font-size: x-large;
+    width: 580px;
+    font-size: xx-large;
+    margin-left: 80px;
+}
+.odour{
+    text-align: center;
+    width: 400px;
+    font-size: 25px;
+    background-color: #E77F06;
+    border-radius: 50px;
+    color: white;
+    margin-left: 150px;
+    
 }
